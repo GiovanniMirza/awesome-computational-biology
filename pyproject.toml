@@ -5,3 +5,4 @@ description = "Awesome list of computational biology."
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # clarify the control flow
+# avoid re-reading the config on every call
